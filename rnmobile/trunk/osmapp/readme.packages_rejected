@@ -1,0 +1,13 @@
+
+1)"redux-immutable-state-invariant": "^2.0.0"
+	Rejected
+	Development Dependancy. Use restricted to local.
+
+2)"react-navigation"
+	Rejected
+	Release still in Beta. Alternate exists "react-router-native-flux" in the repository
+
+3)"axios"
+	Conditionally Accepted
+	Native "flux" is good enough for HTTP requests. "axios" is just a wrapper which adds to the overhead.
+

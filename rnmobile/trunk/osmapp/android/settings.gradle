@@ -1,0 +1,3 @@
+rootProject.name = 'osmapp'
+
+include ':app'

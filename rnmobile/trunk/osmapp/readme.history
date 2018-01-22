@@ -1,0 +1,15 @@
+Tue Oct 17 22:10:05 IST 2017, zurez
+1) 'react-redux'
+	"<Provider> doesn't support changing state on the fly. Version Incompatibility Issue."
+	"Possible  Fix: Downgrading 'react-redux'"
+	"Temporary Solution: Commented out the troublesome code line."
+
+Wed Oct 18 17:22:04 IST 2017, zurez
+1) 'native-base'
+	"The elements inside the <Content> are not being rendered. And majority of time using in creating forms results in app crash. Probably incompatibility with 	other modules"
+	"Temporary Solution: Using alternative"
+
+
+Thu Oct 19 12:31:47 +08 2017, squidster
+Renamed the oct* to plat*, reflecting the new naming convention to PlatyPOS; the restaurant and POS system.
+	
